@@ -22,7 +22,7 @@ export default function HeroSection() {
           </a>
           {/* Download CV Button */}
           <a
-         href="https://drive.google.com/uc?export=download&id=1bODDw_6-5EQZ50I0jQW44iXJu9pfKzOC"
+           href="https://drive.google.com/uc?export=download&id=1bR_VYW4Xb842DRlNIdzv4fltBBDChhkK" 
        className="btn btn-secondary"
             download
           >
